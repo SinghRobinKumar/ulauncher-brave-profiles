@@ -1,6 +1,6 @@
-# ulauncher-chrome-profiles
+# ulauncher-brave-profiles
 
-> [Ulauncher](https://ulauncher.io) extension for launching Google Chrome using a chosen user profile.
+> [Ulauncher](https://ulauncher.io) extension for launching Brave Browser using a chosen user profile.
 
 ## Screenshot
 
@@ -16,7 +16,7 @@
 Open ulauncher preferences window -> extensions -> add extension and paste the following url:
 
 ```
-https://github.com/floydjohn/ulauncher-chrome-profiles
+https://github.com/SinghRobinKumar/ulauncher-brave-profiles
 ```
 
 ## Contributing
@@ -29,9 +29,9 @@ https://github.com/floydjohn/ulauncher-chrome-profiles
 
 ## Authors
 
-- [Alessandro Racheli](https://github.com/floydjohn)
-- README.md copied from [Bruno Paz](https://github.com/brpaz)
+- [Robin Kumar Singh](https://github.com/SinghRobinKumar)
+- README.md copied from [Alessandro Racheli](https://github.com/floydjohn)
 
 ## License
 
-MIT &copy; [Alessandro Racheli]
+MIT &copy; [Robin Kumar Singh]
